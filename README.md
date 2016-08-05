@@ -1,9 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# 透過 Rails Tutorial 精進Rails
 
 * Ruby version
 
