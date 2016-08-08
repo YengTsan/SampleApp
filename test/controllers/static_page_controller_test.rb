@@ -2,7 +2,7 @@ require 'test_helper'
 
 class StaticPageControllerTest < ActionDispatch::IntegrationTest
   test "should get home" do
-    get helf_path
+    get home_path
     assert_response :success
     assert_select "title", "Home | Ruby on Rails Tutorial Sample App"
   end
