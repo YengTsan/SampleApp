@@ -4,7 +4,7 @@
 
 * System dependencies
 
-* Configuration
+* `Conf`iguration
 
 * Database creation
 
